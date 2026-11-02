@@ -42,9 +42,9 @@ C = 1 \times 10^{-12} \ F
 
 Therefore,
 
-\[
-f_c = \frac{1}{2\pi \times 10^6 \times 10^{-12}}
-\]
+
+f_c = 1/{2 *pi * 10^6 *10^{-12}}
+
 
 \[
 \boxed{f_c \approx 159.154 \text{ kHz}}
@@ -112,7 +112,7 @@ The small discrepancy between theoretical and simulated results can be attribute
 
 ## 👨‍💻 Author
 
-**Imamul Hossain Rafi**
+**Sheikh Tariful Islam**
 
 Electrical and Electronic Engineering
 
