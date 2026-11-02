@@ -21,34 +21,37 @@ The objective is to calculate the theoretical cutoff frequency of an RC low-pass
 
 The cutoff frequency of a first-order RC low-pass filter is given by:
 
-\[
+$$
 f_c = \frac{1}{2\pi RC}
-\]
+$$
 
 Where:
+
 - \(R\) = Resistance
 - \(C\) = Capacitance
 - \(f_c\) = Cutoff frequency
 
 Substituting the component values:
 
-\[
+$$
 R = 1 \times 10^6 \ \Omega
-\]
+$$
 
-\[
+$$
 C = 1 \times 10^{-12} \ F
-\]
+$$
 
 Therefore,
 
+$$
+f_c = \frac{1}{2\pi \times 10^6 \times 10^{-12}}
+$$
 
-f_c = 1/{2 *pi * 10^6 *10^{-12}}
+The theoretical cutoff frequency is:
 
-
-\[
+$$
 \boxed{f_c \approx 159.154 \text{ kHz}}
-\]
+$$
 
 ## 🔌 Circuit Schematic
 
